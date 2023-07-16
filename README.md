@@ -11,7 +11,7 @@ This is a Node.js server that provides an API to find intersections between a lo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/line-intersection-api.git
+   git clone https://github.com/monkwithamac23/line-intersection-api.git
    cd line-intersection-api
 Install dependencies:
 
